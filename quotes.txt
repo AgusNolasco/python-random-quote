@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+I'm learning Python
+I'm learning how to put a new line is a file using Python!I'm learning how to put a new line is a file using Python!
